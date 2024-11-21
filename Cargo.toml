@@ -1,0 +1,9 @@
+[package]
+name = "rust-ole"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+binrw = "0"
+modular-bitfield = "0"
+thiserror = "2"
